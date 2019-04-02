@@ -1,0 +1,7 @@
+D:\18.11.2377\Method2\Method2\bin\Debug\Method2.exe.config
+D:\18.11.2377\Method2\Method2\bin\Debug\Method2.exe
+D:\18.11.2377\Method2\Method2\bin\Debug\Method2.pdb
+D:\18.11.2377\Method2\Method2\obj\Debug\Method2.csprojAssemblyReference.cache
+D:\18.11.2377\Method2\Method2\obj\Debug\Method2.csproj.CoreCompileInputs.cache
+D:\18.11.2377\Method2\Method2\obj\Debug\Method2.exe
+D:\18.11.2377\Method2\Method2\obj\Debug\Method2.pdb
